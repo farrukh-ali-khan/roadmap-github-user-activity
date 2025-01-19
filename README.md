@@ -1,7 +1,3 @@
-## Project URL
-
-[GitHub User Activity Project](https://roadmap.sh/projects/github-user-activity)
-
 ## Description
 
 This project is a simple command line interface (CLI) application that fetches the recent activity of a specified GitHub user using the GitHub API and displays it in the terminal. This application is built using Node.js and demonstrates how to work with APIs, handle JSON data, and build a CLI application.
@@ -27,7 +23,7 @@ This project is a simple command line interface (CLI) application that fetches t
 
 2. Make the script executable:
    ```sh
-   chmod +x github-activity.js
+   chmod +x index.js
    ```
 
 ## Usage
@@ -35,9 +31,13 @@ This project is a simple command line interface (CLI) application that fetches t
 Run the CLI application by providing a GitHub username as an argument:
 
 ```sh
-./github-activity.js <username>
+./index.js <username>
 ```
 
 # GitHub User Activity CLI
 
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+## Project URL
+
+[GitHub User Activity Project](https://roadmap.sh/projects/github-user-activity)
