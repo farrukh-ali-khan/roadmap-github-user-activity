@@ -25,6 +25,10 @@ This project is a simple command line interface (CLI) application that fetches t
    ```sh
    chmod +x index.js
    ```
+3. Another way
+   ```
+   node index.js <username>
+   ```
 
 ## Usage
 
